@@ -3,6 +3,8 @@
 ограниченый лимит запросов (600 в месяц)
 отображение новостей при запросе на кириллице отсутствует
 
+Сылка: https://vermillion-blancmange-100f95.netlify.app/search
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
